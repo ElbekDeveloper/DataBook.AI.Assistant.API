@@ -1,0 +1,6 @@
+@DataBook.AI.Assistant.API_HostAddress = http://localhost:5210
+
+GET {{DataBook.AI.Assistant.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
